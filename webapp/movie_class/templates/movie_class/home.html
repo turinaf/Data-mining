@@ -1,0 +1,48 @@
+
+{% extends 'index.html' %}
+
+
+{% block content %}
+
+<h4>Home page</h4>
+<div class="row">
+    <div class="col-sm-6">
+        <p class="lead"> Lorem ipsum dolor sit, amet consectetur adipisicing elit. Itaque rem, libero nobis dicta alias repellendus exercitationem, quibusdam doloribus ex cumque consequuntur reiciendis beatae voluptas, amet sequi dolorum quasi accusamus deleniti.</p>
+    </div>
+<div class="form-container col-sm-6">
+    <form method="POST" >
+        {% csrf_token %}
+        <div class="input-div mb-1">
+          <label for="movieTitle" class="">Movie Title: </label>
+          <input type="text" class="" id="titleName" name="movieTitle">
+        </div>
+
+        <div class="mb-1">
+            <label for="mainActorName" class="col-lg-4 form-label">Main Actor Name</label>
+            <input type="text" class="col-lg-8 form-control" id="mainActorName" name="mainActor">
+        </div>
+        <div class="mb-1">
+            <label for="secondmainActorName" class="col-lg-4 form-label">Second Main Actor Name</label>
+            <input type="number" class="col-lg-8 form-control" id="secondmainActorName" name="secondActor" >
+        </div>
+        <div class="mb-1">
+            <label for="metaScore" class="col-lg-4 form-label">Meta Score</label>
+            <input type="number" class="col-lg-8 form-control" id="metaScore" name="metaScore" >
+        </div>
+
+        <div class="mb-1">
+            <label for="imdb" class="col-lg-4 form-label">imdb</label>
+            <input type="number" class="col-lg-8 form-control" id="imdb" name="imdb" >
+        </div>
+
+        <div class="row mb-2">
+            <label for="rottenTomatoes" class="col-lg-4 form-label">Rotten Tomatoes</label>
+            <input type="number" class="col-lg-8 form-control" id="rottenTomatoes" name="rottenTomatoes" >
+        </div>
+
+        <button type="submit" class="btn btn-primary">Predict movie success</button>
+      </form>
+</div>
+
+</div>
+{% endblock %}

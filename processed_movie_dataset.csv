@@ -1,0 +1,224 @@
+title,Running_time,Budget,Box_office,Release_date,imdb,metascore,rotten_tomatoes,Main_actor,Second_actor,Director,Category,Main_actor_rate,Director_rate,Second_actor_rate
+Pinocchio,88.0,2600000.0,164000000.0,1940-02-07,7.4,9.9,7.3,Cliff Edwards,Dickie Jones,Ben Sharpsteen,Blockbuster,10.0,7.5,10.0
+Fantasia,126.0,2280000.0,83300000.0,1940-11-13,7.7,9.6,9.5,Leopold Stokowski,Deems Taylor,Samuel Armstrong,Blockbuster,10.0,10.0,10.0
+Dumbo,64.0,950000.0,1300000.0,1941-10-23,7.2,9.6,9.8,Edward Brophy,Herman Bing,Ben Sharpsteen,Flop,5.0,7.5,5.0
+Bambi,70.0,858000.0,267400000.0,1942-08-09,7.3,9.1,9.0,see below,missing,Supervising director,Blockbuster,10.0,10.0,8.958333333333334
+Make Mine Music,75.0,1350000.0,3275000.0,1946-04-20,6.3,6.0,7.0,Nelson Eddy,missing,Jack Kinney,Hit,7.5,6.25,8.958333333333334
+Song of the South,94.0,2125000.0,65000000.0,1946-11-12,7.1,5.4,5.0,James Baskett,Bobby Driscoll,Live action:,Blockbuster,10.0,10.0,10.0
+Melody Time,75.0,1500000.0,2560000.0,1948-05-27,6.3,6.9,8.0,Roy Rogers,Trigger,Jack Kinney,Flop,5.0,6.25,5.0
+Cinderella,74.0,2900000.0,263600000.00000003,1950-02-15,6.9,6.7,8.3,Ilene Woods,Eleanor Audley,Clyde Geronimi,Blockbuster,10.0,9.0,10.0
+Alice in Wonderland,75.0,3000000.0,5600000.0,1951-07-26,6.4,5.3,5.1,Kathryn Beaumont,Ed Wynn,Clyde Geronimi,Flop,5.0,9.0,5.0
+Peter Pan,77.0,4000000.0,87400000.0,1953-02-05,7.3,7.6,8.1,Bobby Driscoll,Kathryn Beaumont,Clyde Geronimi,Blockbuster,10.0,9.0,10.0
+The Living Desert,69.0,300000.0,2600000.0,1953-11-10,7.5,6.9,7.4,missing,missing,James Algar,Blockbuster,9.166666666666666,10.0,8.958333333333334
+"20,000 Leagues Under the Sea",127.0,5000000.0,28200000.0,1954-12-23,7.2,8.3,8.9,Kirk Douglas,James Mason,Richard Fleischer,Blockbuster,10.0,10.0,10.0
+Lady and the Tramp,76.0,4000000.0,187000000.0,1955-06-22,7.3,7.8,9.3,Barbara Luddy,Larry Roberts,Clyde Geronimi,Blockbuster,10.0,9.0,10.0
+Sleeping Beauty,75.0,6000000.0,51600000.0,1959-01-29,7.2,8.5,8.9,Mary Costa,Bill Shirley,Clyde Geronimi (supervising),Blockbuster,10.0,10.0,10.0
+The Shaggy Dog,104.0,1000000.0,12300000.0,1959-03-19,4.4,4.3,2.6,Fred MacMurray,Jean Hagen,Charles Barton,Blockbuster,10.0,10.0,10.0
+Swiss Family Robinson,126.0,4000000.0,40000000.0,1960-12-21,7.2,6.1,8.2,John Mills,Dorothy McGuire,Ken Annakin,Blockbuster,10.0,10.0,10.0
+One Hundred and One Dalmatians,79.0,3600000.0,303000000.0,1961-01-25,7.3,8.3,9.8,Rod Taylor,Cate Bauer,Clyde Geronimi,Blockbuster,10.0,9.0,10.0
+Babes in Toyland,105.0,3000000.0,4600000.0,1961-12-14,6.3,5.5,3.6,Ray Bolger,Tommy Sands,Jack Donohue,Flop,5.0,5.0,5.0
+The Sword in the Stone,79.0,3000000.0,22200000.0,1963-12-25,7.2,6.1,6.6,Rickie Sorensen,Karl Swenson,Wolfgang Reitherman,Blockbuster,10.0,10.0,10.0
+Mary Poppins,139.0,4.4,103100000.0,1964-08-27,7.8,8.8,10.0,Julie Andrews,Dick Van Dyke,Robert Stevenson,Blockbuster,10.0,9.166666666666666,10.0
+The Jungle Book,78.0,4000000.0,378000000.0,1967-10-18,7.4,7.7,9.4,Phil Harris,Sebastian Cabot,Wolfgang Reitherman,Blockbuster,10.0,10.0,10.0
+The Love Bug,108.0,5000000.0,51264000.0,1968-12-24,6.5,4.8,7.6,Dean Jones,Michele Lee,Robert Stevenson,Blockbuster,10.0,9.166666666666666,10.0
+The Aristocats,79.0,4000000.0,191000000.0,1970-12-11,7.1,6.6,6.4,Phil Harris,Eva Gabor,Wolfgang Reitherman,Blockbuster,10.0,10.0,10.0
+Bedknobs and Broomsticks,118.0,6300000.0,17900000.0,1971-10-07,7.1,5.9,6.6,Angela Lansbury,David Tomlinson,Robert Stevenson,Hit,7.5,9.166666666666666,7.5
+Robin Hood,83.0,5000000.0,32000000.0,1973-11-08,6.6,5.3,4.3,Roger Miller,Peter Ustinov,Wolfgang Reitherman,Blockbuster,10.0,10.0,10.0
+Freaky Friday,95.0,5000000.0,36000000.0,1976-12-20,6.2,7.0,8.8,Jodie Foster,Barbara Harris,Gary Nelson,Blockbuster,10.0,7.5,10.0
+The Rescuers,77.0,7500000.0,169000000.0,1977-06-22,6.9,7.4,8.1,Bob Newhart,Eva Gabor,Wolfgang Reitherman,Blockbuster,10.0,10.0,10.0
+Pete's Dragon,128.0,10000000.0,36.0,1977-11-03,6.7,7.1,8.8,Helen Reddy,Jim Dale,Don Chaffey,Flop,5.0,5.0,5.0
+The Black Hole,98.0,20000000.0,35800000.0,1979-12-18,6.0,5.2,3.8,Maximilian Schell,Anthony Perkins,Gary Nelson,Flop,5.0,7.5,5.0
+Popeye,114.0,20000000.0,60000000.0,1980-12-06,5.3,6.4,6.1,Robin Williams,Shelley Duvall,Robert Altman,Hit,7.5,7.5,7.5
+Dragonslayer,109.0,18000000.0,14100000.0,1981-06-26,6.7,6.8,8.4,Peter MacNicol,Caitlin Clarke,Matthew Robbins,Flop,5.0,5.0,5.0
+The Fox and the Hound,83.0,12000000.0,63500000.0,1981-07-10,7.3,6.5,7.0,Mickey Rooney,Kurt Russell,Ted Berman,Blockbuster,10.0,7.5,10.0
+Tex,103.0,5000000.0,7400000.0,1982-07-30,6.5,7.8,8.5,Matt Dillon,Jim Metzler,Tim Hunter,Flop,5.0,5.0,5.0
+Return to Oz,113.0,28000000.0,11100000.0,1985-06-21,6.7,4.2,5.3,Nicol Williamson,Jean Marsh,Walter Murch,Flop,5.0,5.0,5.0
+The Black Cauldron,80.0,44000000.0,21300000.0,1985-07-26,6.4,5.9,5.3,Grant Bardsley,Susan Sheridan,Ted Berman,Flop,5.0,7.5,5.0
+The Great Mouse Detective,74.0,14000000.0,38700000.0,1986-07-02,7.2,7.3,8.0,Vincent Price,Barrie Ingham,John Musker,Hit,7.5,8.75,7.5
+Flight of the Navigator,90.0,9000000.0,18564613.0,1986-08-01,6.9,6.4,8.4,Joey Cramer,missing,Randal Kleiser,Hit,7.5,6.666666666666667,8.958333333333334
+Oliver & Company,74.0,31000000.0,121000000.0,1988-11-18,6.7,5.8,5.0,Joey Lawrence,Billy Joel,George Scribner,Blockbuster,10.0,10.0,10.0
+"Honey, I Shrunk the Kids",93.0,18000000.0,222700000.0,1989-06-23,6.4,6.3,7.7,Rick Moranis,Matt Frewer,Joe Johnston,Blockbuster,7.5,7.5,10.0
+White Fang,107.0,14000000.0,34800000.0,1991-01-18,6.7,6.2,6.5,Klaus Maria Brandauer,Ethan Hawke,Randal Kleiser,Hit,7.5,6.666666666666667,7.5
+The Rocketeer,108.0,35000000.0,46700000.0,1991-06-21,6.5,6.1,6.6,Bill Campbell,Alan Arkin,Joe Johnston,Flop,5.0,7.5,5.0
+Beauty and the Beast,84.0,25000000.0,440100000.0,1991-09-29,8.0,9.5,9.4,Paige OHara,Robby Benson,Gary Trousdale,Blockbuster,10.0,9.166666666666666,10.0
+Newsies,121.0,15000000.0,2800000.0,1992-04-10,7.0,4.6,3.9,Christian Bale,Gabriel Damon,Kenny Ortega,Flop,5.0,5.0,5.0
+"Honey, I Blew Up the Kid",89.0,40000000.0,58700000.0,1992-07-17,4.9,5.0,4.0,Rick Moranis,Marcia Strassman,Randal Kleiser,Flop,7.5,6.666666666666667,5.0
+The Mighty Ducks,104.0,14000000.0,50800000.0,1992-10-02,6.5,4.6,2.3,Emilio Estevez,Joss Ackland,Stephen Herek,Blockbuster,10.0,8.333333333333334,7.5
+Aladdin,90.0,28000000.0,504100000.0,1992-11-25,8.0,8.6,9.5,Scott Weinger,Robin Williams,John Musker,Blockbuster,10.0,8.75,8.333333333333334
+The Muppet Christmas Carol,86.0,12000000.0,27200000.0,1992-12-11,7.7,6.4,7.6,Kermit the Frog,Miss Piggy,Brian Henson,Hit,7.5,6.25,7.5
+Cool Runnings,98.0,17000000.0,154900000.0,1993-10-01,7.0,6.0,7.6,Leon Robinson,Doug E. Doug,Jon Turteltaub,Blockbuster,10.0,8.125,10.0
+The Three Musketeers,105.0,30000000.0,53900000.0,1993-11-12,5.7,3.5,2.6,Charlie Sheen,Kiefer Sutherland,Stephen Herek,Flop,5.0,8.333333333333334,5.0
+Blank Check,94.0,13000000.0,30600000.0,1994-02-11,5.3,4.2,0.9,Brian Bonsall,Karen Duffy,Rupert Wainwright,Hit,7.5,7.5,7.5
+The Lion King,88.0,45000000.0,968500000.0,1994-06-15,8.5,8.8,9.3,Jonathan Taylor Thomas,Matthew Broderick,Roger Allers,Blockbuster,10.0,10.0,10.0
+Angels in the Outfield,102.0,31000000.0,50200000.0,1994-07-15,6.2,4.4,3.3,Danny Glover,Tony Danza,William Dear,Flop,5.0,5.0,5.0
+The Santa Clause,97.0,22000000.0,189800000.0,1994-11-11,6.5,5.7,7.2,Tim Allen,Wendy Crewson,John Pasquin,Blockbuster,7.5,7.5,10.0
+Man of the House,96.0,22000000.0,40070995.0,1995-03-03,5.4,3.5,0.9,Chevy Chase,Farrah Fawcett,James Orr,Flop,5.0,5.0,5.0
+Pocahontas,81.0,55000000.0,346100000.0,1995-06-23,6.7,5.8,5.5,Irene Bedard,Mel Gibson,Mike Gabriel,Blockbuster,10.0,10.0,10.0
+Operation Dumbo Drop,108.0,24000000.0,24670346.0,1995-07-28,5.1,4.8,3.1,Danny Glover,Ray Liotta,Simon Wincer,Flop,5.0,5.0,5.0
+A Kid in King Arthur's Court,89.0,15000000.0,13400000.0,1995-08-11,4.7,3.4,0.5,Thomas Ian Nicholas,Joss Ackland,Michael Gottlieb,Flop,5.0,5.0,7.5
+Toy Story,81.0,30000000.0,373000000.0,1995-11-19,8.3,9.5,10.0,Tom Hanks,Tim Allen,John Lasseter,Blockbuster,10.0,9.0,10.0
+Muppet Treasure Island,100.0,31000000.0,34300000.0,1996-02-16,7.0,6.4,7.0,Tim Curry,Dave Goelz,Brian Henson,Flop,5.0,6.25,5.0
+James and the Giant Peach,79.0,38000000.0,28900000.0,1996-04-12,6.7,7.8,9.1,Paul Terry,Simon Callow,Henry Selick,Flop,5.0,7.5,5.0
+The Hunchback of Notre Dame,91.0,100000000.0,325300000.0,1996-06-21,6.9,7.4,7.1,Tom Hulce,Demi Moore,Gary Trousdale,Hit,7.5,9.166666666666666,7.5
+First Kid,101.0,15000000.0,26491793.0,1996-08-30,5.3,4.8,2.0,Sinbad,Robert Guillaume,David M. Evans,Flop,5.0,5.0,5.0
+101 Dalmatians,103.0,75000000.0,320700000.0,1996-11-27,5.7,4.9,4.1,Glenn Close,Jeff Daniels,Stephen Herek,Blockbuster,8.75,8.333333333333334,10.0
+Jungle 2 Jungle,105.0,32000000.0,59900000.0,1997-03-07,5.2,4.2,1.9,Tim Allen,Martin Short,John Pasquin,Flop,7.5,7.5,6.25
+Hercules,93.0,85000000.0,252700000.0,1997-06-13,7.3,7.4,8.4,Tate Donovan,Danny DeVito,Ron Clements,Hit,7.5,7.5,7.5
+George of the Jungle,92.0,55000000.0,174400000.0,1997-07-16,5.5,5.3,5.6,Brendan Fraser,Leslie Mann,Sam Weisman,Hit,7.5,7.5,7.5
+Flubber,93.0,80000000.0,178000000.0,1997-11-16,5.3,3.7,2.4,Robin Williams,Marcia Gay Harden,Les Mayfield,Hit,7.5,7.5,7.5
+Mr. Magoo,87.0,30000000.0,28900000.0,1997-12-25,4.0,1.8,0.7,Leslie Nielsen,Kelly Lynch,Stanley Tong,Flop,5.0,5.0,5.0
+Mulan,87.0,90000000.0,304300000.0,1998-06-19,7.6,7.1,8.6,Ming-Na Wen,Eddie Murphy,Barry Cook,Hit,7.5,7.5,7.5
+The Parent Trap,128.0,15000000.0,92100000.0,1998-07-29,6.5,6.4,8.6,Lindsay Lohan,Dennis Quaid,Nancy Meyers,Blockbuster,8.333333333333334,10.0,10.0
+A Bug's Life,95.0,120000000.0,363300000.0,1998-11-20,7.2,7.7,9.2,Dave Foley,Kevin Spacey,John Lasseter,Hit,7.5,9.0,7.5
+Mighty Joe Young,114.0,90000000.0,50600000.0,1998-12-25,5.6,5.1,5.4,Bill Paxton,Charlize Theron,Ron Underwood,Flop,6.25,5.0,5.0
+My Favorite Martian,93.0,65000000.0,36800000.0,1999-02-12,5.1,3.3,1.2,Jeff Daniels,Christopher Lloyd,Donald Petrie,Flop,5.0,5.0,5.0
+Tarzan,88.0,130000000.0,448200000.0,1999-06-12,7.3,7.9,8.9,Tony Goldwyn,Minnie Driver,Kevin Lima,Hit,7.5,8.333333333333334,7.5
+Inspector Gadget,78.0,90000000.0,134400000.0,1999-07-23,4.2,3.6,2.1,Matthew Broderick,Rupert Everett,David Kellogg,Flop,5.0,5.0,5.0
+The Straight Story,112.0,10000000.0,6200000.0,missing,8.0,8.6,9.5,Richard Farnsworth,Sissy Spacek,David Lynch,Flop,5.0,5.0,5.0
+Toy Story 2,92.0,90000000.0,497400000.0,1999-11-13,7.9,8.8,10.0,Tom Hanks,Tim Allen,John Lasseter,Blockbuster,10.0,9.0,10.0
+Fantasia 2000,74.0,85000000.0,90900000.0,1999-12-16,7.2,5.9,8.1,James Levine,Steve Martin,Don Hahn,Flop,5.0,5.0,5.0
+The Tigger Movie,77.0,15000000.0,96200000.0,2000-02-11,6.3,5.3,6.2,Jim Cummings,Nikita Hopkins,Jun Falkenstein,Blockbuster,7.5,10.0,10.0
+Dinosaur,82.0,127500000.0,349800000.0,2000-05-19,6.5,5.6,6.4,D. B. Sweeney,Alfre Woodard,Ralph Zondag,Hit,7.5,7.5,7.5
+Remember The Titans,113.0,30000000.0,136700000.0,2000-09-29,7.8,4.8,7.3,Denzel Washington,Will Patton,Boaz Yakin,Blockbuster,10.0,10.0,10.0
+102 Dalmatians,100.0,85000000.0,183600000.0,2000-11-22,4.9,3.5,3.1,Glenn Close,Ioan Gruffudd,Kevin Lima,Hit,8.75,8.333333333333334,7.5
+The Emperor's New Groove,78.0,100000000.0,169300000.0,2000-12-15,7.4,7.0,8.5,David Spade,John Goodman,Mark Dindal,Flop,5.0,6.25,8.333333333333334
+Recess: School's Out,83.0,23000000.0,44500000.0,2001-02-10,6.6,4.3,6.0,Andrew Lawrence,Rickey DShon Collins,Chuck Sheetz,Flop,5.0,5.0,5.0
+Atlantis: The Lost Empire,96.0,90.0,186100000.0,2001-06-03,6.9,5.2,4.9,Michael J. Fox,James Garner,Gary Trousdale,Blockbuster,10.0,9.166666666666666,10.0
+The Princess Diaries,115.0,26000000.0,165300000.0,2001-08-03,6.3,5.2,4.8,Anne Hathaway,Héctor Elizondo,Garry Marshall,Blockbuster,8.75,8.75,10.0
+Max Keeble's Big Move,86.0,25000000.0,18600000.0,2001-10-05,5.4,4.0,2.9,Alex D. Linz,Larry Miller,Tim Hill,Flop,5.0,5.0,5.0
+"Monsters, Inc.",92.0,115000000.0,577400000.0,2001-10-28,8.1,7.9,9.6,John Goodman,Billy Crystal,Pete Docter,Blockbuster,10.0,10.0,10.0
+Snow Dogs,99.0,33000000.0,115000000.0,2002-01-18,5.2,2.9,2.5,Cuba Gooding Jr.,James Coburn,Brian Levant,Hit,7.5,7.5,7.5
+Return to Never Land,73.0,20000000.0,115100000.0,2002-02-10,5.8,4.9,4.6,Blayne Weaver,Harriet Owen,Robin Budd,Blockbuster,10.0,10.0,10.0
+The Rookie,128.0,22000000.0,80700000.0,2002-03-29,6.9,7.2,8.4,Dennis Quaid,Rachel Griffiths,John Lee Hancock,Blockbuster,10.0,8.75,10.0
+Lilo & Stitch,85.0,80000000.0,273100000.0,2002-06-21,7.2,7.3,8.6,Chris Sanders,Daveigh Chase,Chris Sanders,Hit,7.5,7.5,7.5
+The Country Bears,88.0,35000000.0,18000000.0,2002-07-21,4.1,3.7,3.1,Christopher Walken,Daryl Chill Mitchell,Peter Hastings,Flop,5.0,5.0,5.0
+Tuck Everlasting,96.0,15000000.0,19300000.0,2002-10-11,6.6,6.6,6.0,Alexis Bledel,Ben Kingsley,Jay Russell,Flop,5.0,5.0,7.5
+The Santa Clause 2,104.0,65000000.0,172900000.0,2002-11-01,5.6,4.8,5.6,Tim Allen,Judge Reinhold,Michael Lembeck,Hit,7.5,8.75,7.5
+Treasure Planet,95.0,140000000.0,109600000.0,2002-11-27,7.2,6.0,6.9,Joseph Gordon-Levitt,Brian Murray,Ron Clements,Flop,5.0,7.5,5.0
+The Jungle Book 2,72.0,20000000.0,135700000.0,2003-02-14,5.4,3.8,1.8,Haley Joel Osment,John Goodman,Steve Trenbirth,Blockbuster,10.0,10.0,8.333333333333334
+Piglet's Big Movie,75.0,46000000.0,62900000.0,2003-03-16,6.2,6.2,7.0,John Fiedler,Jim Cummings,Francis Glebas,Flop,5.0,5.0,5.0
+Ghosts of the Abyss,61.0,13000000.0,28700000.0,2003-03-31,6.8,6.7,8.0,Bill Paxton,James Cameron,James Cameron,Hit,6.25,7.5,7.5
+Holes,117.0,20000000.0,71400000.0,2003-04-18,7.0,7.1,7.8,Sigourney Weaver,Jon Voight,Andrew Davis,Blockbuster,10.0,10.0,10.0
+The Lizzie McGuire Movie,94.0,17000000.0,55500000.0,2003-05-02,5.5,5.6,4.1,Hilary Duff,Adam Lamberg,Jim Fall,Hit,7.5,7.5,7.5
+Finding Nemo,100.0,94000000.0,940300000.0,2003-05-30,8.1,9.0,9.9,Albert Brooks,Ellen DeGeneres,Andrew Stanton,Blockbuster,10.0,8.125,10.0
+Pirates of the Caribbean: The Curse of the Black Pearl,143.0,140000000.0,654300000.0,2003-06-28,8.0,6.3,7.9,Johnny Depp,Geoffrey Rush,Gore Verbinski,Blockbuster,8.75,9.375,10.0
+Freaky Friday,97.0,26000000.0,160800000.0,2003-08-04,6.2,7.0,8.8,Jamie Lee Curtis,Lindsay Lohan,Mark Waters,Blockbuster,10.0,10.0,10.0
+Brother Bear,85.0,46000000.0,250400000.0,2003-11-01,6.8,4.8,3.7,Joaquin Phoenix,Jeremy Suarez,Aaron Blaise,Blockbuster,10.0,10.0,10.0
+The Haunted Mansion,86.0,90000000.0,182300000.0,2003-11-26,5.0,3.4,1.4,Eddie Murphy,Terence Stamp,Rob Minkoff,Hit,7.5,7.5,7.5
+Miracle,136.0,28000000.0,64500000.0,2004-02-06,7.5,6.8,8.1,Kurt Russell,Patricia Clarkson,Gavin OConnor,Hit,7.5,7.5,7.5
+Confessions of a Teenage Drama Queen,89.0,15000000.0,33100000.0,2004-02-20,4.7,3.3,1.4,Lindsay Lohan,Adam Garcia,Sara Sugarman,Hit,8.333333333333334,7.5,7.5
+Home on the Range,76.0,110000000.0,145500000.0,2004-04-02,5.4,5.0,5.3,Roseanne Barr,Judi Dench,Will Finn,Flop,5.0,5.0,5.0
+Around the World in 80 Days,120.0,110000000.0,72200000.0,2004-06-13,5.9,4.9,3.2,Jackie Chan,Steve Coogan,Frank Coraci,Flop,5.0,5.0,5.0
+The Princess Diaries 2: Royal Engagement,113.0,45000000.0,134700000.0,2004-08-11,5.8,4.3,2.6,Anne Hathaway,Heather Matarazzo,Garry Marshall,Hit,8.75,8.75,7.5
+National Treasure,131.0,100000000.0,347500000.0,2004-11-19,6.9,3.9,4.6,Nicolas Cage,Harvey Keitel,Jon Turteltaub,Hit,7.5,8.125,7.5
+Pooh's Heffalump Movie,68.0,20000000.0,52900000.0,2005-02-11,6.4,6.4,8.0,Jim Cummings,John Fiedler,Frank Nissen,Hit,7.5,7.5,7.5
+The Pacifier,95.0,56000000.0,198600000.0,2005-03-04,5.6,3.0,2.1,Vin Diesel,Lauren Graham,Adam Shankman,Blockbuster,10.0,8.75,10.0
+Ice Princess,97.0,25000000.0,27600000.0,2005-03-18,6.0,5.5,5.2,Joan Cusack,Kim Cattrall,Tim Fywell,Flop,5.0,5.0,5.0
+Herbie: Fully Loaded,101.0,50000000.0,144100000.0,2005-06-22,4.8,4.7,4.0,Lindsay Lohan,Justin Long,Angela Robinson,Hit,8.333333333333334,7.5,7.5
+Sky High,100.0,35000000.0,86400000.0,2005-07-29,6.2,6.2,7.3,Kelly Preston,Michael Angarano,Mike Mitchell,Hit,7.5,7.5,7.5
+Valiant,76.0,35000000.0,61700000.0,2005-03-25,5.5,4.5,3.2,Ewan McGregor,Ricky Gervais,Gary Chapman,Flop,5.0,5.0,5.0
+The Greatest Game Ever Played,120.0,25000000.0,15400000.0,2005-09-30,7.4,5.5,6.3,Shia LaBeouf,Stephen Dillane,Bill Paxton,Flop,5.0,5.0,5.0
+Chicken Little,81.0,150000000.0,314400000.0,2005-10-30,5.7,4.8,3.7,Zach Braff,Joan Cusack,Mark Dindal,Hit,7.5,6.25,7.5
+"The Chronicles of Narnia: The Lion, the Witch and the Wardrobe",143.0,180000000.0,745000000.0,2005-12-07,6.9,7.5,7.6,William Moseley,Anna Popplewell,Andrew Adamson,Blockbuster,10.0,7.5,10.0
+Glory Road,106.0,30000000.0,42900000.0,2006-01-13,7.2,5.8,10.0,Josh Lucas,Derek Luke,James Gartner,Flop,5.0,5.0,5.0
+Eight Below,120.0,40000000.0,120500000.0,2006-02-17,7.3,6.4,7.2,Paul Walker,Bruce Greenwood,Frank Marshall,Hit,7.5,7.5,7.5
+The Shaggy Dog,99.0,50000000.0,87100000.0,2006-03-10,4.4,4.3,2.6,Tim Allen,Robert Downey Jr.,Brian Robbins,Flop,7.5,5.0,5.0
+The Wild,82.0,80000000.0,102300000.0,2006-04-14,5.3,4.7,5.0,Kiefer Sutherland,Jim Belushi,Steve Spaz Williams,Flop,5.0,5.0,5.0
+Cars,117.0,120000000.0,462000000.0,2006-05-26,7.1,7.3,7.4,Owen Wilson,Paul Newman,John Lasseter,Blockbuster,8.333333333333334,9.0,10.0
+Pirates of the Caribbean: Dead Man's Chest,151.0,225000000.0,1066000000.0,2006-06-24,7.3,5.3,5.3,Johnny Depp,Orlando Bloom,Gore Verbinski,Blockbuster,8.75,9.375,8.75
+Invincible,104.0,30000000.0,58500000.0,2006-08-25,7.1,6.3,7.2,Mark Wahlberg,Greg Kinnear,Ericson Core,Flop,5.0,5.0,5.0
+The Nightmare Before Christmas,76.0,26000000.0,91500000.0,1993-10-29,8.0,8.2,9.5,Danny Elfman,Chris Sarandon,Henry Selick,Blockbuster,10.0,7.5,10.0
+The Santa Clause 3: The Escape Clause,92.0,12000000.0,110800000.0,2006-11-03,4.8,3.2,1.7,Tim Allen,Elizabeth Mitchell,Michael Lembeck,Blockbuster,7.5,8.75,10.0
+Bridge to Terabithia,95.0,20.0,138000000.0,2007-02-16,7.1,7.4,8.5,Josh Hutcherson,AnnaSophia Robb,Gábor Csupó,Blockbuster,10.0,10.0,8.75
+Meet the Robinsons,94.0,150000000.0,169300000.0,2007-03-23,6.8,6.1,6.7,Daniel Hansen,Jordan Fry,Stephen Anderson,Flop,5.0,5.0,5.0
+Pirates of the Caribbean: At World's End,168.0,300000000.0,961000000.0,2007-05-19,7.1,5.0,4.4,Johnny Depp,Orlando Bloom,Gore Verbinski,Hit,8.75,9.375,8.75
+Ratatouille,111.0,150000000.0,620700000.0,2007-06-22,8.0,9.6,9.6,Patton Oswalt,Ian Holm,Brad Bird,Blockbuster,10.0,10.0,10.0
+Underdog,82.0,25000000.0,65300000.0,2007-08-03,4.7,3.7,1.6,Jim Belushi,Peter Dinklage,Frederik Du Chau,Hit,7.5,7.5,7.5
+The Game Plan,110.0,22000000.0,146600000.0,2007-09-23,6.1,4.4,2.9,Dwayne The Rock Johnson,Madison Pettis,Andy Fickman,Blockbuster,10.0,8.75,10.0
+Enchanted,107.0,85000000.0,340500000.0,2007-10-20,7.0,7.5,9.3,Amy Adams,Patrick Dempsey,Kevin Lima,Blockbuster,10.0,8.333333333333334,10.0
+National Treasure: Book of Secrets,124.0,130000000.0,459200000.0,2007-12-21,6.5,4.8,3.6,Nicolas Cage,Jon Voight,Jon Turteltaub,Blockbuster,7.5,8.125,10.0
+Hannah Montana and Miley Cyrus: Best of Both Worlds Concert,74.0,7000000.0,70600000.0,2008-02-01,2.4,5.9,7.1,Miley Cyrus,Jonas Brothers,Bruce Hendricks,Blockbuster,7.5,10.0,10.0
+College Road Trip,83.0,25000000.0,51500000.0,2008-03-07,4.3,3.6,1.2,Martin Lawrence,Raven Symone,Roger Kumble,Hit,7.5,7.5,7.5
+The Chronicles of Narnia: Prince Caspian,150.0,225000000.0,419700000.0,2008-05-07,6.5,6.2,6.6,Georgie Henley,Skandar Keynes,Andrew Adamson,Flop,5.0,7.5,5.0
+WALL-E,97.0,180000000.0,521300000.0,2008-06-23,8.4,9.5,9.5,Ben Burtt,Elissa Knight,Andrew Stanton,Hit,7.5,8.125,7.5
+Beverly Hills Chihuahua,91.0,20000000.0,149300000.0,2008-10-03,3.8,4.1,4.0,Piper Perabo,Manolo Cardona,Raja Gosnell,Blockbuster,10.0,10.0,10.0
+Bolt,96.0,150000000.0,310000000.0,2008-11-21,6.8,6.7,8.9,John Travolta,Miley Cyrus,Chris Williams,Hit,7.5,7.5,7.5
+Bedtime Stories,99.0,80000000.0,212900000.0,2008-12-25,6.0,3.3,2.7,Adam Sandler,Keri Russell,Adam Shankman,Hit,7.5,8.75,7.5
+Race to Witch Mountain,98.0,50000000.0,106400000.0,2009-03-11,5.7,5.2,4.2,Dwayne Johnson,AnnaSophia Robb,Andy Fickman,Hit,7.5,8.75,8.75
+Hannah Montana: The Movie,97.0,30000000.0,169.2,2009-04-10,4.5,4.7,4.3,Miley Cyrus,Emily Osment,Peter Chelsom,Flop,7.5,5.0,5.0
+Earth,99.0,47000000.0,109000000.0,2007-10-10,8.0,7.2,8.6,missing,missing,Alastair Fothergill,Hit,9.166666666666666,9.375,8.958333333333334
+Up,96.0,175000000.0,735100000.0,2009-05-29,8.2,8.8,9.8,Ed Asner,Christopher Plummer,Pete Docter,Blockbuster,10.0,10.0,10.0
+G-Force,90.0,150000000.0,292800000.0,2009-07-24,5.1,4.1,2.2,Sam Rockwell,Tracy Morgan,Hoyt H. Yeatman Jr.,Flop,5.0,5.0,5.0
+A Christmas Carol,96.0,175000000.0,325000000.0,2009-11-03,6.8,5.5,5.2,Jim Carrey,Gary Oldman,Robert Zemeckis,Flop,5.0,5.0,5.0
+Old Dogs,88.0,35000000.0,96800000.0,2009-11-25,5.4,1.9,0.5,John Travolta,Robin Williams,Walt Becker,Hit,7.5,7.5,8.333333333333334
+The Princess and the Frog,97.0,105000000.0,270000000.0,2009-11-25,7.1,7.3,8.5,Anika Noni Rose,Bruno Campos,Ron Clements,Hit,7.5,7.5,7.5
+Alice in Wonderland,108.0,200000000.0,1025000000.0,2010-02-25,6.4,5.3,5.1,Johnny Depp,Anne Hathaway,Tim Burton,Blockbuster,8.75,8.333333333333334,7.5
+Oceans,104.0,80000000.0,82700000.0,2009-10-17,7.8,7.5,8.1,missing,missing,Jacques Perrin,Flop,9.166666666666666,5.0,8.958333333333334
+Prince of Persia: The Sands of Time,116.0,200000000.0,336400000.0,2010-05-09,6.6,5.0,3.7,Jake Gyllenhaal,Gemma Arterton,Mike Newell,Flop,5.0,5.0,5.0
+Toy Story 3,103.0,200000000.0,1067000000.0,2010-06-12,8.3,9.2,9.8,Tom Hanks,Tim Allen,Lee Unkrich,Blockbuster,10.0,10.0,10.0
+The Sorcerer's Apprentice,109.0,150000000.0,215300000.0,2010-07-08,6.1,4.6,4.0,Nicolas Cage,Jay Baruchel,Jon Turteltaub,Flop,7.5,8.125,5.0
+Secretariat,123.0,35000000.0,60300000.0,2010-09-30,7.2,6.1,6.3,Diane Lane,John Malkovich,Randall Wallace,Flop,5.0,5.0,5.0
+Tangled,100.0,260000000.0,592400000.0,2010-11-14,7.7,7.1,8.9,Mandy Moore,Zachary Levi,Nathan Greno,Hit,7.5,7.5,7.5
+Tron: Legacy,125.0,170000000.0,400100000.0,2010-11-30,6.8,4.9,5.1,Garrett Hedlund,Jeff Bridges,Joseph Kosinski,Hit,7.5,7.5,7.5
+Mars Needs Moms,88.0,150000000.0,39200000.0,2011-03-11,5.4,4.9,3.7,Seth Green,Dan Fogler,Simon Wells,Flop,5.0,5.0,5.0
+African Cats,89.0,5000000.0,30900000.0,2011-04-22,7.6,6.1,7.3,missing,missing,Alastair Fothergill,Blockbuster,9.166666666666666,9.375,8.958333333333334
+Prom,104.0,8000000.0,10700000.0,2011-04-29,5.4,5.0,3.6,Aimee Teegarden,Thomas McDonell,Joe Nussbaum,Flop,5.0,5.0,5.0
+Pirates of the Caribbean: On Stranger Tides,137.0,410600000.0,1046000000.0,2011-05-07,6.6,4.5,3.3,Johnny Depp,Penélope Cruz,Rob Marshall,Hit,8.75,8.333333333333334,7.5
+Cars 2,106.0,200000000.0,562100000.0,2011-06-18,6.1,5.7,3.9,Owen Wilson,Larry the Cable Guy,John Lasseter,Hit,8.333333333333334,9.0,7.5
+Winnie the Pooh,69.0,30000000.0,50100000.0,2011-04-06,7.2,7.4,9.1,Jim Cummings,Jack Boulter,Stephen Anderson,Flop,7.5,5.0,5.0
+The Muppets,103.0,45000000.0,165200000.0,2011-11-04,7.1,7.5,9.5,Jason Segel,Amy Adams,James Bobin,Blockbuster,10.0,6.666666666666667,10.0
+Arrietty,95.0,23000000.0,146000000.0,2010-07-17,7.6,8.0,9.5,Mirai Shida,Ryunosuke Kamiki,Hiromasa Yonebayashi,Blockbuster,10.0,10.0,10.0
+John Carter,132.0,306600000.0,284100000.0,2012-02-22,6.6,5.1,5.2,Taylor Kitsch,Lynn Collins,Andrew Stanton,Flop,5.0,8.125,5.0
+Chimpanzee,77.0,5000000.0,34800000.0,2012-04-20,7.2,5.7,7.6,missing,missing,Alastair Fothergill,Blockbuster,9.166666666666666,9.375,8.958333333333334
+Brave,93.0,185000000.0,540400000.0,2012-06-10,7.1,6.9,7.8,Kelly Macdonald,Emma Thompson,Mark Andrews,Hit,7.5,7.5,7.5
+The Odd Life of Timothy Green,104.0,25000000.0,56000000.0,2012-08-15,6.6,4.7,3.6,Jennifer Garner,Joel Edgerton,Peter Hedges,Hit,7.5,7.5,7.5
+Frankenweenie,87.0,39000000.0,81500000.0,2012-09-20,6.9,7.4,8.7,Catherine OHara,Martin Short,Tim Burton,Hit,7.5,8.333333333333334,6.25
+Wreck-It Ralph,101.0,165000000.0,471200000.0,2012-10-29,7.7,7.2,8.7,John C. Reilly,Sarah Silverman,Rich Moore,Hit,7.5,7.5,7.5
+Oz the Great and Powerful,130.0,200.0,493300000.0,2013-02-14,6.3,4.4,5.7,James Franco,Mila Kunis,Sam Raimi,Blockbuster,10.0,10.0,10.0
+Monsters University,104.0,200000000.0,743600000.0,2013-06-05,7.3,6.5,8.0,Billy Crystal,John Goodman,Dan Scanlon,Blockbuster,10.0,10.0,8.333333333333334
+The Lone Ranger,149.0,225.0,260500000.0,2013-06-22,6.4,3.7,3.0,Johnny Depp,Armie Hammer,Gore Verbinski,Blockbuster,8.75,9.375,10.0
+Planes,92.0,50000000.0,239300000.0,2013-08-02,5.7,3.9,2.5,Dane Cook,Stacy Keach,Klay Hall,Blockbuster,8.75,10.0,8.75
+Frozen,102.0,150000000.0,1280000000.0,2013-11-19,7.4,7.5,9.0,Kristen Bell,Idina Menzel,Chris Buck,Blockbuster,10.0,10.0,10.0
+Saving Mr. Banks,125.0,35000000.0,117900000.0,2013-10-20,7.5,6.5,7.9,Emma Thompson,Tom Hanks,John Lee Hancock,Hit,7.5,8.75,7.5
+Muppets Most Wanted,107.0,51000000.0,80400000.0,2014-03-11,6.4,6.1,8.0,Ricky Gervais,Ty Burrell,James Bobin,Flop,5.0,6.666666666666667,5.0
+Bears,77.0,5000000.0,21300000.0,2014-04-18,7.4,6.8,9.0,missing,missing,Alastair Fothergill,Blockbuster,9.166666666666666,9.375,8.958333333333334
+Million Dollar Arm,124.0,25000000.0,39200000.0,2014-05-06,7.0,5.6,6.5,Jon Hamm,Aasif Mandvi,Craig Gillespie,Flop,5.0,7.5,5.0
+Maleficent,97.0,180.0,758500000.0,2014-05-28,7.0,5.6,5.4,Angelina Jolie,Sharlto Copley,Robert Stromberg,Blockbuster,8.75,10.0,10.0
+Planes: Fire & Rescue,84.0,50000000.0,147000000.0,2014-07-15,6.0,4.8,4.5,Dane Cook,Stacy Keach,Bobs Gannaway,Hit,8.75,7.5,8.75
+"Alexander and the Terrible, Horrible, No Good, Very Bad Day",81.0,28000000.0,100700000.0,2014-10-06,6.2,5.4,6.1,Steve Carell,Jennifer Garner,Miguel Arteta,Blockbuster,10.0,10.0,10.0
+Big Hero 6,102.0,165000000.0,657800000.0,2014-10-23,7.8,7.4,8.9,Scott Adsit,Ryan Potter,Don Hall,Blockbuster,10.0,10.0,10.0
+Into the Woods,124.0,50000000.0,213100000.0,2014-12-08,5.9,6.9,7.1,Meryl Streep,Emily Blunt,Rob Marshall,Blockbuster,10.0,8.333333333333334,10.0
+"McFarland, USA",129.0,25000000.0,45700000.0,2015-02-09,7.4,6.0,8.1,Kevin Costner,Maria Bello,Niki Caro,Flop,5.0,5.0,5.0
+Cinderella,106.0,95.0,542400000.0,2015-02-13,6.9,6.7,8.3,Cate Blanchett,Lily James,Kenneth Branagh,Blockbuster,10.0,10.0,10.0
+Monkey Kingdom,82.0,5.0,17100000.0,2015-04-17,7.3,7.2,9.3,missing,missing,Mark Linfield,Blockbuster,9.166666666666666,10.0,8.958333333333334
+Tomorrowland,130.0,180.0,209000000.0,2015-05-09,6.4,6.0,5.0,George Clooney,Hugh Laurie,Brad Bird,Blockbuster,10.0,10.0,10.0
+Inside Out,94.0,175000000.0,858000000.0,2015-05-18,8.1,9.4,9.8,Amy Poehler,Phyllis Smith,Pete Docter,Blockbuster,10.0,10.0,10.0
+The Good Dinosaur,94.0,175000000.0,332200000.0,2015-11-10,6.7,6.6,7.6,Raymond Ochoa,Jack Bright,Peter Sohn,Flop,5.0,5.0,5.0
+The Finest Hours,117.0,70.0,52100000.0,2016-01-25,6.8,5.8,6.3,Chris Pine,Casey Affleck,Craig Gillespie,Blockbuster,10.0,7.5,10.0
+Zootopia,108.0,150000000.0,1024000000.0,2016-02-13,8.0,7.8,9.8,Ginnifer Goodwin,Jason Bateman,Byron Howard,Blockbuster,10.0,10.0,10.0
+The Jungle Book,106.0,175.0,966600000.0,2016-04-04,7.4,7.7,9.4,Bill Murray,Ben Kingsley,Jon Favreau,Blockbuster,10.0,10.0,7.5
+Alice Through the Looking Glass,114.0,170000000.0,299500000.0,2016-05-10,6.2,3.4,2.9,Johnny Depp,Anne Hathaway,James Bobin,Flop,8.75,6.666666666666667,7.5
+Finding Dory,97.0,175.0,1029000000.0,2016-06-08,7.3,7.7,9.4,Ellen DeGeneres,Albert Brooks,Andrew Stanton,Blockbuster,10.0,8.125,10.0
+The BFG,117.0,140000000.0,195200000.0,2016-05-14,6.4,6.6,7.4,Mark Rylance,Ruby Barnhill,Steven Spielberg,Flop,5.0,5.0,5.0
+Pete's Dragon,103.0,65000000.0,143700000.0,2016-08-08,6.7,7.1,8.8,Bryce Dallas Howard,Oakes Fegley,David Lowery,Hit,7.5,7.5,7.5
+Queen of Katwe,124.0,15000000.0,10400000.0,2016-09-10,7.4,7.3,9.4,David Oyelowo,Lupita Nyongo,Mira Nair,Flop,5.0,5.0,5.0
+Moana,107.0,150.0,690800000.0,2016-11-14,7.6,8.1,9.5,Auliʻi Cravalho,Dwayne Johnson,Ron Clements,Blockbuster,10.0,7.5,10.0
+March of the Penguins,80.0,8000000.0,127400000.0,2005-01-26,7.5,7.9,9.4,missing,missing,Luc Jacquet,Blockbuster,9.166666666666666,10.0,8.958333333333334
+Beauty and the Beast,129.0,160.0,1264000000.0,2017-02-23,8.0,9.5,9.4,Emma Watson,Dan Stevens,Bill Condon,Blockbuster,10.0,10.0,10.0
+Born in China,76.0,5.0,25100000.0,2016-08-12,7.2,5.7,8.5,missing,missing,Lu Chuan,Blockbuster,9.166666666666666,10.0,8.958333333333334
+Pirates of the Caribbean: Dead Men Tell No Tales,129.0,230.0,794900000.0,2017-05-11,6.5,3.9,2.9,Johnny Depp,Javier Bardem,Joachim Rønning,Blockbuster,8.75,8.75,10.0
+Cars 3,102.0,175000000.0,383900000.0,2017-05-23,6.7,5.9,6.9,Owen Wilson,Cristela Alonzo,Brian Fee,Hit,8.333333333333334,7.5,7.5
+Coco,105.0,175000000.0,807800000.0,2017-10-20,8.4,8.1,9.7,Anthony Gonzalez,Gael García Bernal,Lee Unkrich,Blockbuster,10.0,10.0,10.0
+A Wrinkle in Time,109.0,100.0,133400000.0,2018-02-26,4.2,5.3,4.2,Oprah Winfrey,Reese Witherspoon,Ava DuVernay,Blockbuster,10.0,10.0,10.0
+Incredibles 2,118.0,200000000.0,1243000000.0,2018-06-05,7.6,8.0,9.3,Craig T. Nelson,Holly Hunter,Brad Bird,Blockbuster,10.0,10.0,10.0
+The Nutcracker and the Four Realms,99.0,120.0,174000000.0,2018-10-29,5.5,3.9,3.2,Keira Knightley,Mackenzie Foy,Lasse Hallström,Blockbuster,10.0,10.0,10.0
+Ralph Breaks the Internet,112.0,175000000.0,529300000.0,2018-11-05,7.1,7.1,8.8,John C. Reilly,Sarah Silverman,Rich Moore,Hit,7.5,7.5,7.5
+Mary Poppins Returns,131.0,130000000.0,349500000.0,2018-11-29,6.7,6.6,7.9,Emily Blunt,Lin-Manuel Miranda,Rob Marshall,Hit,7.5,8.333333333333334,7.5
+Dumbo,112.0,170000000.0,353300000.0,2019-03-11,7.2,9.6,9.8,Colin Farrell,Michael Keaton,Tim Burton,Hit,7.5,8.333333333333334,7.5
+Toy Story 4,100.0,200000000.0,1073000000.0,2019-06-11,7.8,8.4,9.7,Tom Hanks,Tim Allen,Josh Cooley,Blockbuster,10.0,10.0,10.0
+The Lion King,118.0,250.0,1657000000.0,2019-07-09,8.5,8.8,9.3,Donald Glover,Seth Rogen,Jon Favreau,Blockbuster,10.0,10.0,10.0
+Maleficent: Mistress of Evil,119.0,185000000.0,492700000.0,2019-10-18,6.6,4.3,3.9,Angelina Jolie,Elle Fanning,Joachim Rønning,Hit,8.75,8.75,7.5
+Frozen II,103.0,150000000.0,1450000000.0,2019-11-07,6.9,6.4,7.7,Kristen Bell,Idina Menzel,Chris Buck,Blockbuster,10.0,10.0,10.0
+Onward,102.0,175.0,141900000.0,2020-02-21,7.4,6.1,8.8,Tom Holland,Chris Pratt,Dan Scanlon,Blockbuster,10.0,10.0,10.0
+Mulan,115.0,200000000.0,70000000.0,2020-03-09,7.6,7.1,8.6,Yifei Liu,Donnie Yen,Niki Caro,Flop,5.0,5.0,5.0
+Night at the Museum,306.0,387000000.0,1310000000.0,missing,6.4,4.8,0.0,Ben Stiller,Robin Williams,Shawn Levy,Hit,7.5,7.5,8.333333333333334
