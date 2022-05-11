@@ -6,42 +6,54 @@
 
 <h4>Home page</h4>
 <div class="row">
-    <div class="col-sm-6">
+    <div class="col-md-6">
         <p class="lead"> Lorem ipsum dolor sit, amet consectetur adipisicing elit. Itaque rem, libero nobis dicta alias repellendus exercitationem, quibusdam doloribus ex cumque consequuntur reiciendis beatae voluptas, amet sequi dolorum quasi accusamus deleniti.</p>
     </div>
-<div class="form-container col-sm-6">
+<div class="form-container col-md-6" id="form-div">
     <form method="POST" >
         {% csrf_token %}
-        <div class="input-div mb-1">
-          <label for="movieTitle" class="">Movie Title: </label>
-          <input type="text" class="" id="titleName" name="movieTitle">
+        <div class="mb-1">
+          <label for="movieTitle" class="form-label">Movie Title: </label>
+          <input type="text" class="form-control" id="movieTitle" name="movieTitle" required>
         </div>
 
         <div class="mb-1">
             <label for="mainActorName" class="col-lg-4 form-label">Main Actor Name</label>
-            <input type="text" class="col-lg-8 form-control" id="mainActorName" name="mainActor">
+            <input type="text" class="col-lg-8 form-control" id="mainActorName" name="mainActor" required>
         </div>
         <div class="mb-1">
-            <label for="secondmainActorName" class="col-lg-4 form-label">Second Main Actor Name</label>
-            <input type="number" class="col-lg-8 form-control" id="secondmainActorName" name="secondActor" >
+            <label for="secondmainActorName" class="form-label">Second Actor Name</label>
+            <input type="text" class="form-control" id="secondmainActorName" name="secondActor" required>
         </div>
+
+        <div class="mb-1">
+            <label for="directorName" class=" form-label">Director Name</label>
+            <input type="text" class="form-control" id="secondmainActorName" name="directorName" required>
+        </div>
+
         <div class="mb-1">
             <label for="metaScore" class="col-lg-4 form-label">Meta Score</label>
-            <input type="number" class="col-lg-8 form-control" id="metaScore" name="metaScore" >
+            <input type="text" class="col-lg-8 form-control" id="metaScore" name="metaScore" required>
         </div>
 
         <div class="mb-1">
-            <label for="imdb" class="col-lg-4 form-label">imdb</label>
-            <input type="number" class="col-lg-8 form-control" id="imdb" name="imdb" >
+            <label for="imdb" class="form-label">imdb</label>
+            <input type="text" class="form-control" id="imdb" name="imdb" >
         </div>
 
-        <div class="row mb-2">
-            <label for="rottenTomatoes" class="col-lg-4 form-label">Rotten Tomatoes</label>
-            <input type="number" class="col-lg-8 form-control" id="rottenTomatoes" name="rottenTomatoes" >
+        <div class="mb-2">
+            <label for="rottenTomatoes" class="form-label">Rotten Tomatoes</label>
+            <input type="text" class="form-control" id="rottenTomatoes" name="rottenTomatoes" required>
         </div>
 
-        <button type="submit" class="btn btn-primary">Predict movie success</button>
+        <button type="submit" class="btn btn-primary" id="predict-btn">Predict Movie Success</button>
       </form>
+</div>
+
+<div class="result_container disp-none col-md-6" id="result-div">
+  <h5>Movie Name iss Blockbuster</h5>
+  <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Temporibus, sint sequi odio ipsum hic exercitationem id accusamus labore suscipit laudantium, blanditiis nihil quis ab beatae tenetur quisquam ea natus tempore.</p>
+  <button class="btn btn-primary" id="back-btn">Back</button>
 </div>
 
 </div>
