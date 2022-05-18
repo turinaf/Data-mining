@@ -4,19 +4,51 @@
 
 {% block content %}
 
-<h4>Data Mining Project -  Disney Movies</h4>
+<h3>Data Mining Project -  Disney Movies</h3>
 <div class="row">
     <div class="col-md-6 main-p">
-        <p class="lead">The world famous Walt Disney productions have had countless successes over the last century. Some movies, however, proved to be particularly more successful and profitable than others, classifying a dataset based on the major Disney movies released in theatres can help us figure out key elements to the success of some of these films, we want to assess their success based on their profitability.
+        <p class="lead">
+            This program predicts whether the movie with the provided parameters will be successful or not.
+            The the category for the movies to be predicted are the following three:
+            <ol>
+                <li>Blockbuster.</li>
+                <li>Hit.</li>
+                <li>Flop.</li>
+            </ol>
         </p>
         <div class="result_div">
-            <h5 class="">Prediction Result:</h5>
-            <p >Enter necessary information to see the prediction result</p>
-        {% if result != null %}
-        
-            <h5>Movie Title: {{title}}</h5>
-            <p>Prediction Result: {{result}}</p> 
-            <p>Explanation: Lorem ipsum dolor sit amet consectetur adipisicing elit. Quaerat veritatis iste aperiam voluptatum ducimus commodi natus quae numquam nihil adipisci doloremque consequatur voluptas impedit, saepe inventore doloribus. Fugit, hic asperiores.</p>
+            <h5 class="">Prediction Result</h5>
+            <p >Enter necessary information to see the prediction result.</p>
+           {% if result != null %}
+             <h6>The information you provided: </h6>
+             <div style="padding: 2px; margin-bottom: 20px; ">
+             <table >
+                <thead>
+                    <tr>
+                        <th>Title</th>
+                        <th>Director</th>
+                        <th>Main Actor</th>
+                        <th>Second actor</th>
+                        <th>Metatcore</th>
+                        <th>imdb</th>
+                        <th>Rotten tomatoes</th>
+                    </tr>
+                </thead>
+                <tbody>
+                    <tr>
+                        <td>{{title}}</td>
+                        <td>{{director}}</td>
+                        <td>{{m_actor}}</td>
+                        <td>{{s_actor}}</td>
+                        <td>{{metascore}}</td>
+                        <td>{{imdb}}</td>
+                        <td>{{rotten_tomatoes}}</td>
+                    </tr>
+                </tbody>
+             </table>
+            </div>
+            <p> <Strong>Prediction Result: </Strong> {{result}}</p> 
+            <p><strong>Explanation: </strong>{{explanation}}.</p>
           
         {% endif %}
        </div>

@@ -1,10 +1,43 @@
 {% extends 'index.html' %}
 
 {% block content %}
-<h4>Explore dataset </h4>
-<div class="data-table">
-    {{ data|safe }}
+<div class="dataset-page">
+    <h4>Explore The Movies Dataset </h4>
+     
+    <div class="table-container">
+           <div class="table-header">
+            <h3>1. Original Dataset</h3>
+            <p class="lead">The original dataset contains 444 records of movies produced by Walt Disney Productions. As we can see there are some Null values in some cells. The data clean up is needed and that is what we have done first. The table below shows original dataset.</p>
+           </div>
+           <div class="data-table">
+            {{original | safe }}
+           </div>
+           <div class="summary">
+               <p>Summary of the original dataset</p>
+            {{o_summary | safe }}
+           </div>
+    </div>
+
+    <div class="table-container">
+        <div class="table-header">
+            <h5>2. Processed Dataset</h5>
+            <p class="lead">After cleaning up the dataset, i.e dropping rows with Null values, the total number of movie record became 223. The table below shows the Processed dataset sorted by Budget and Box office in descending order.</p>
+        </div>
+        <div class="data-table">
+            {{ data|safe }}
+        </div>
+        <div class="summary">
+            <p class="lead">Summary of Processed dataset</p>
+            {{p_summary | safe}}
+        </div>
+        
+        <div class="summary">
+            <p class="lead">The summary of movies Categories:</p>
+            {{cat_count | safe}}
+        </div>
+    </div>
 </div>
+
 
 
 {% endblock %}

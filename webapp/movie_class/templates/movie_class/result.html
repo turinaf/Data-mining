@@ -4,17 +4,23 @@
 
 {% block content %}
 
-<h4>Home page</h4>
+<h3>Data Mining Project -  Disney Movies</h3>
 <div class="row">
-    <div class="col-md-6">
-        <p class="lead"> Lorem ipsum dolor sit, amet consectetur adipisicing elit. Itaque rem, libero nobis dicta alias repellendus exercitationem, quibusdam doloribus ex cumque consequuntur reiciendis beatae voluptas, amet sequi dolorum quasi accusamus deleniti.</p>
+    <div class="col-md-6 main-p">
+        <p class="lead">The world famous Walt Disney productions have had countless successes over the last century. Some movies, however, proved to be particularly more successful and profitable than others, classifying a dataset based on the major Disney movies released in theatres can help us figure out key elements to the success of some of these films, we want to assess their success based on their profitability.
+        </p>
+        
     </div>
 
-<div class="result_container disp-none col-md-6" id="result-div">
-  <h5>Movie Name iss Blockbuster</h5>
-  <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Temporibus, sint sequi odio ipsum hic exercitationem id accusamus labore suscipit laudantium, blanditiis nihil quis ab beatae tenetur quisquam ea natus tempore.</p>
-  <button class="btn btn-primary" id="back-btn">Back</button>
-</div>
-
-</div>
+    <div class="col-md-6 result_div">
+      <h5 class="">Prediction Result:</h5>
+      <p >Enter necessary information to see the prediction result</p>
+  {% if result != null %}
+  
+      <h5>Movie Title: {{title}}</h5>
+      <p>Prediction Result: {{result}}</p> 
+      <p>Explanation: Lorem ipsum dolor sit amet consectetur adipisicing elit. Quaerat veritatis iste aperiam voluptatum ducimus commodi natus quae numquam nihil adipisci doloremque consequatur voluptas impedit, saepe inventore doloribus. Fugit, hic asperiores.</p>
+    
+  {% endif %}
+ </div>
 {% endblock %}
