@@ -5,7 +5,6 @@ import pandas as pd
 import pickle
 # Create your views here.
 
-
 def home(request):
     context = {}
     if request.method == 'POST':
@@ -27,9 +26,6 @@ def home(request):
         
         prediction = model.predict([[imdb, meta_score, rotten_tomatoes, main_actor_rate, second_actor_rate, director_rate]])
         
-        # print([main_actor_rate, second_actor_rate, director_rate])
-        # print([title, main_actor, second_actor, director_name, meta_score, imdb, rotten_tomatoes])
-        # print("Prediction result: ", prediction[0])
         if prediction[0] == 0:
             result = "Blockbuster"
             explanation = "The movie si successful"
@@ -39,9 +35,7 @@ def home(request):
         elif prediction[0] == 2:
             result = "Hit"
             explanation = "The movie has no profit"
-        context = {'title': title, 'director':director_name, 
-                   'm_actor': main_actor, 's_actor': second_actor,
-                   'metascore': meta_score, 
+        context = {'title': title, 'director':director_name, 'm_actor': main_actor, 's_actor': second_actor,'metascore': meta_score, 
                    'imdb': imdb, 'rotten_tomatoes': rotten_tomatoes,  
                    'result': result, 'explanation': explanation }
         # redirect('result', context)
