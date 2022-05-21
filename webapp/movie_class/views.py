@@ -1,10 +1,7 @@
-from os import O_SHORT_LIVED
-import re
 from django.shortcuts import render, redirect
 import pandas as pd
 import pickle
 # Create your views here.
-
 def home(request):
     context = {}
     if request.method == 'POST':
@@ -25,7 +22,6 @@ def home(request):
         director_rate = df.loc[df['Director'] == director_name, 'Director_rate'].iloc[0]
         
         prediction = model.predict([[imdb, meta_score, rotten_tomatoes, main_actor_rate, second_actor_rate, director_rate]])
-        
         if prediction[0] == 0:
             result = "Blockbuster"
             explanation = "The movie si successful"
@@ -34,11 +30,11 @@ def home(request):
             explanation = "The movie Lost i.e Box office is less than Budget"
         elif prediction[0] == 2:
             result = "Hit"
-            explanation = "The movie has no profit"
-        context = {'title': title, 'director':director_name, 'm_actor': main_actor, 's_actor': second_actor,'metascore': meta_score, 
+            explanation = "The profit lies between budget and double of budget"
+        context = {'title': title, 'director':director_name, 
+                   'm_actor': main_actor, 's_actor': second_actor,'metascore': meta_score, 
                    'imdb': imdb, 'rotten_tomatoes': rotten_tomatoes,  
                    'result': result, 'explanation': explanation }
-        # redirect('result', context)
     return render(request, 'movie_class/home.html', context)
 
 def result(request):
