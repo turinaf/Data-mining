@@ -4,5 +4,5 @@ Then create virtual environment. Since we installed django in Anaconda virtual e
 Then run the following command
 
 ```
-python manage.py runserver
+$ python manage.py runserver
 ```
